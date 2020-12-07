@@ -1,6 +1,6 @@
 import { Chart, Tooltip, Legend, View, Polygon, Point } from 'viser-react';
 import $ from 'jquery';
-const DataSet = require('@antv/data-set');
+import DataSet from '@antv/data-set';
 
 const scale = [
   {
