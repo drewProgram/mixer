@@ -43,7 +43,7 @@ const view2Opts = {
   },
 };
 
-export default class App extends React.Component {
+export default class WorldChart extends React.Component {
   state = {
     geoData: [],
     data: [],
